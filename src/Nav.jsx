@@ -1,14 +1,9 @@
 import { NavLink } from "react-router-dom"
 
-
 function Nav() {
-
     const NavZ = <>
-
         <li><NavLink to='/'>Home</NavLink></li>
-
     </>
-
     return (
         <div>
             <div className="navbar bg-base-100 p-5 shadow">

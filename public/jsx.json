@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "image": "https://example.com/images/python.png",
+      "name": "Python",
+      "details": "A high-level, interpreted language known for its simplicity and readability.",
+      "creatingYear": 1991,
+      "owner": "Guido van Rossum"
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/images/javascript.png",
+      "name": "JavaScript",
+      "details": "A versatile scripting language primarily used for web development.",
+      "creatingYear": 1995,
+      "owner": "Brendan Eich"
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/images/java.png",
+      "name": "Java",
+      "details": "A class-based, object-oriented programming language used for various applications.",
+      "creatingYear": 1995,
+      "owner": "James Gosling"
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/images/cpp.png",
+      "name": "C++",
+      "details": "An extension of C with object-oriented programming capabilities.",
+      "creatingYear": 1985,
+      "owner": "Bjarne Stroustrup"
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/images/csharp.png",
+      "name": "C#",
+      "details": "A modern, object-oriented programming language developed by Microsoft.",
+      "creatingYear": 2000,
+      "owner": "Microsoft"
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/images/ruby.png",
+      "name": "Ruby",
+      "details": "A dynamic, open-source programming language with a focus on simplicity and productivity.",
+      "creatingYear": 1995,
+      "owner": "Yukihiro Matsumoto"
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/images/swift.png",
+      "name": "Swift",
+      "details": "A powerful programming language developed by Apple for iOS and macOS apps.",
+      "creatingYear": 2014,
+      "owner": "Apple"
+    },
+    {
+      "id": 8,
+      "image": "https://example.com/images/kotlin.png",
+      "name": "Kotlin",
+      "details": "A modern, concise language that runs on the JVM and is used for Android development.",
+      "creatingYear": 2011,
+      "owner": "JetBrains"
+    },
+    {
+      "id": 9,
+      "image": "https://example.com/images/go.png",
+      "name": "Go",
+      "details": "A statically typed language developed by Google for efficiency and concurrency.",
+      "creatingYear": 2009,
+      "owner": "Google"
+    },
+    {
+      "id": 10,
+      "image": "https://example.com/images/php.png",
+      "name": "PHP",
+      "details": "A popular general-purpose scripting language especially suited for web development.",
+      "creatingYear": 1995,
+      "owner": "Rasmus Lerdorf"
+    },
+    {
+      "id": 11,
+      "image": "https://example.com/images/rust.png",
+      "name": "Rust",
+      "details": "A multi-paradigm language designed for safety and performance.",
+      "creatingYear": 2010,
+      "owner": "Mozilla"
+    },
+    {
+      "id": 12,
+      "image": "https://example.com/images/typescript.png",
+      "name": "TypeScript",
+      "details": "A strict syntactical superset of JavaScript that adds static typing.",
+      "creatingYear": 2012,
+      "owner": "Microsoft"
+    },
+    {
+      "id": 13,
+      "image": "https://example.com/images/sql.png",
+      "name": "SQL",
+      "details": "A domain-specific language used for managing relational databases.",
+      "creatingYear": 1974,
+      "owner": "IBM"
+    },
+    {
+      "id": 14,
+      "image": "https://example.com/images/perl.png",
+      "name": "Perl",
+      "details": "A high-level, general-purpose programming language known for text processing.",
+      "creatingYear": 1987,
+      "owner": "Larry Wall"
+    },
+    {
+      "id": 15,
+      "image": "https://example.com/images/dart.png",
+      "name": "Dart",
+      "details": "A programming language optimized for building fast, scalable apps.",
+      "creatingYear": 2011,
+      "owner": "Google"
+    },
+    {
+      "id": 16,
+      "image": "https://example.com/images/lua.png",
+      "name": "Lua",
+      "details": "A lightweight, high-performance scripting language for embedded systems.",
+      "creatingYear": 1993,
+      "owner": "PUC-Rio"
+    },
+    {
+      "id": 17,
+      "image": "https://example.com/images/matlab.png",
+      "name": "MATLAB",
+      "details": "A language designed for numerical computing and data visualization.",
+      "creatingYear": 1984,
+      "owner": "MathWorks"
+    },
+    {
+      "id": 18,
+      "image": "https://example.com/images/r.png",
+      "name": "R",
+      "details": "A programming language and environment for statistical computing and graphics.",
+      "creatingYear": 1993,
+      "owner": "Ross Ihaka & Robert Gentleman"
+    },
+    {
+      "id": 19,
+      "image": "https://example.com/images/haskell.png",
+      "name": "Haskell",
+      "details": "A purely functional programming language with strong static typing.",
+      "creatingYear": 1990,
+      "owner": "Haskell Community"
+    },
+    {
+      "id": 20,
+      "image": "https://example.com/images/scala.png",
+      "name": "Scala",
+      "details": "A high-level language that integrates functional and object-oriented programming.",
+      "creatingYear": 2003,
+      "owner": "Martin Odersky"
+    }
+  ]
+  
