@@ -2,10 +2,11 @@ import { NavLink } from "react-router-dom"
 
 function Nav() {
     const NavZ = <>
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/compo'>components</NavLink></li>
-        <li><NavLink to='/fragments'>fragments</NavLink></li>
-        <li><NavLink to='/dvalue'>Dynamic Value</NavLink></li>
+        <li className=" text-xs "><NavLink to='/'>Home</NavLink></li>
+        <li className=" text-xs "><NavLink to='/compo'>components</NavLink></li>
+        <li className=" text-xs "><NavLink to='/fragments'>fragments</NavLink></li>
+        <li className=" text-xs "><NavLink to='/dvalue'>Dynamic Value</NavLink></li>
+        <li className=" text-xs "><NavLink to='/cr'>Conditional Rendering</NavLink></li>
     </>
     return (
         <div>

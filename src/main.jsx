@@ -11,6 +11,7 @@ import Home from './Home';
 import Compo from './componentsZ/Compo';
 import Fragments from './fragmentZ/Fragments';
 import Dvalue from './dynamic value/Dvalue';
+import CR from './conditional rendering/CR';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: "/dvalue",
         element: <Dvalue></Dvalue>,
+      },
+      {
+        path: "/cr",
+        element: <CR></CR>,
       },
     ],
   },
