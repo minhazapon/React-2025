@@ -9,6 +9,7 @@ import {
 import Root from './Root';
 import Home from './Home';
 import Compo from './componentsZ/Compo';
+import Fragments from './fragmentZ/Fragments';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
       {
         path: "/compo",
         element: <Compo></Compo>,
+      },
+      {
+        path: "/fragments",
+        element: <Fragments></Fragments>,
       },
     ],
   },
