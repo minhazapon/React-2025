@@ -10,6 +10,7 @@ import Root from './Root';
 import Home from './Home';
 import Compo from './componentsZ/Compo';
 import Fragments from './fragmentZ/Fragments';
+import Dvalue from './dynamic value/Dvalue';
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: "/fragments",
         element: <Fragments></Fragments>,
+      },
+      {
+        path: "/dvalue",
+        element: <Dvalue></Dvalue>,
       },
     ],
   },

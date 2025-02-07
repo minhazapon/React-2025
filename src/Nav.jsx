@@ -5,6 +5,7 @@ function Nav() {
         <li><NavLink to='/'>Home</NavLink></li>
         <li><NavLink to='/compo'>components</NavLink></li>
         <li><NavLink to='/fragments'>fragments</NavLink></li>
+        <li><NavLink to='/dvalue'>Dynamic Value</NavLink></li>
     </>
     return (
         <div>
