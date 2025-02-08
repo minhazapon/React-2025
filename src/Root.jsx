@@ -1,11 +1,13 @@
 import { Outlet } from "react-router-dom"
-import Nav from "./Nav"
 import Footer from "./Footer"
+import ResNav from "./ResNav"
+import LogoTitle from "./LogoTitle"
 
 function Root() {
     return (
         <div className="">
-            <Nav></Nav>
+            <LogoTitle></LogoTitle>
+            <ResNav></ResNav>
             <Outlet></Outlet>
             <Footer></Footer>
         </div>
