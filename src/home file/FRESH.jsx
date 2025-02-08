@@ -13,8 +13,12 @@ function FRESH() {
     return (
         <>
             <div className=" mt-20 mb-20 ">
-                <div className="">
-                    <div className=" flex justify-center items-center gap-20 ">
+                <div className=" bg-no-repeat bg-cover"
+                    style={{
+                        backgroundImage: "url(https://www.opentable.com/blog/wp-content/uploads/sites/108/2023/04/providence-credit-daniel-collopy_11zon-scaled.jpg)",
+                    }}
+                >
+                    <div className=" flex justify-center items-center gap-20 bg-gradient-to-r from-black p-10 ">
                         <div className=" bg-white border-[1px]  h-[520px] w-[250px] p-4  ">
                             <div>
                                 <p className=" font-semibold text-xl text-green-700 ">BASIC
@@ -60,8 +64,8 @@ function FRESH() {
                             </div>
                         </div>
                         <div>
-                            <p className=" text-center text-5xl ">FRESH MENU</p>
-                            <p className=" text-center text-gray-400 mt-5 ">Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br></br> Sapiente voluptate voluptatum reiciendis voluptatem!<br></br> Earum quasi autem quidem libero dolorem architecto hic<br></br> error magni. Impedit tenetur minima dolor delectus dicta illo.</p>
+                            <p className=" text-center text-5xl text-white ">FRESH MENU</p>
+                            <p className=" text-center text-white mt-5 ">Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br></br> Sapiente voluptate voluptatum reiciendis voluptatem!<br></br> Earum quasi autem quidem libero dolorem architecto hic<br></br> error magni. Impedit tenetur minima dolor delectus dicta illo.</p>
                             <div className=" flex justify-center mt-10">
                                 <button className=" btn bg-green-700 text-white ">BOOK TABLE</button>
                             </div>
