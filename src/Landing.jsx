@@ -1,6 +1,6 @@
 
 
-function Home() {
+function Landing() {
     return (
         <div>
 
@@ -8,4 +8,4 @@ function Home() {
     )
 }
 
-export default Home
+export default Landing
